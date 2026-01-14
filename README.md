@@ -1,5 +1,3 @@
-#invincible-nehajain
-
 Hi! I’m Neha Jain, a Project & Program Management professional passionate about delivering impactful technology solutions and streamlining operations. With over 8 years of experience across global, high-volume SaaS and professional services projects, I specialize in turning complex challenges into structured, actionable plans that drive measurable results. From managing vendor and partner portfolios to optimizing workflows and implementing data-driven process improvements, I thrive on creating order from complexity while enabling teams to operate efficiently.
 
 I have extensive experience in project governance, program delivery, stakeholder management, and performance monitoring. I enjoy bridging the gap between strategy and execution—whether it’s translating SOWs into executable project plans, leading cross-functional initiatives, or using dashboards and analytics tools to provide real-time insights for leadership. I’m particularly passionate about leveraging data and automation to streamline operations, improve SLA adherence, and enhance customer experiences.
