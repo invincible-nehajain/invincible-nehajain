@@ -16,4 +16,6 @@ I enjoy capturing nature’s beauty 🏞️
 
 I created this space to share my learnings, and collaborate on innovative ideas. I believe in continuous learning, community engagement, and combining creativity with disciplined execution. Whether it’s building dashboards, improving operational efficiency, or experimenting with AI in project workflows, I’m excited to contribute, connect, and create solutions that make an impact.
 
+📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/invincible-nehajain/) or email me at nehajain180993@gmail.com.I'm open to exploring opportunities for projects, programs and collaborations!
+
 Let’s connect, share knowledge, and build something awesome together!
